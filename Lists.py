@@ -12,7 +12,7 @@ print(names[1:3]) # From index 1 to index 3 (excluding index 3)
 print(names[:2])  # Every second name
 print(names[::2]) # Every name from index 2 to end
 print(names[-1:]) # Last name
-print(names[-2::])
+print(names[-2::]) # Last two names
 
 print(names[::-1]) # Reversing the list
 

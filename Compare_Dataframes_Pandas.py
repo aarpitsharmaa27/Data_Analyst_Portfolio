@@ -26,3 +26,6 @@ print(df1.compare(df2))     # Compare Changed and unchanged values
 print(df1.compare(df2, align_axis= 0))
 
 print(df1.compare(df2, align_axis= 1))
+
+print(df1.compare(df2, keep_shape=1))
+print(df1.compare(df2, keep_equal=1)) 

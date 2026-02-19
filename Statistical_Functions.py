@@ -13,4 +13,9 @@ print(np.var(a))        # Varience Square of SD
 
 tobacco_consumption = [42,532,54,36,431,35,51]
 Deaths = [35,161,1234,3214321,434441,512,35]
-print(np.corrcoef([tobacco_consumption,Deaths]))
+print(np.corrcoef([tobacco_consumption,Deaths]))       # Co relation function
+
+
+# -1  represents inversely proportional relationship[
+# 1 represents proportional relationship
+# 0 no relationships

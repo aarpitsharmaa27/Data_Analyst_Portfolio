@@ -38,6 +38,9 @@ i = np.array([[52,515,15,3],[351,5153,335,35],[41,541,5431,5321]])
 print(i[2,2:3])
 print(i[0:4,0:1])
 
+
+# Attributes
+
 print(np.shape(i))  #Shape
 print(np.size(i))   #Size or array
 print(np.ndim(i))   # Dimensions of array

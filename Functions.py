@@ -32,7 +32,3 @@ hello("Arpit")
 
 
 
-
-def hiii(x,y):
-    print(x**y)
-hiii(2,900)

@@ -32,6 +32,6 @@ print(new)
 c = a > 30
 print(c)    # Values Greater than 30
 
-c = a > 30
+c = a > 30  # Values Greater than 30
 d = a[c]
 print(d)

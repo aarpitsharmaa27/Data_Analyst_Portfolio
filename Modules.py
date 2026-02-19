@@ -15,7 +15,10 @@ print(y.strftime("%A"))
 y = datetime.datetime(2002,10,27)
 print(y)
 print(y.strftime("%A"))   # Shows Day
-print(y.strftime("%a"))   # Shows Short form of day
+print(y.strftime("%a"))   # Shows Shimport demo
+
+a = demo.add(334,324)
+print(a)ort form of day
 print(y.strftime("%B"))   # Shows Month
 print(y.strftime("%m"))   # Shows Month in 1 -12
 print(y.strftime("%Y"))   # Shows Year

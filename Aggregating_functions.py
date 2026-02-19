@@ -8,5 +8,8 @@ print(np.max(a))
 print(np.size(a))
 print(np.mean(a))
 print(np.cumsum(a))  # adding values one by one
-print(np.cumprod(a))
+print(np.cumprod(a))    # Multiplying values one by one
+
+
+
 

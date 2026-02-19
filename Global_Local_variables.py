@@ -19,6 +19,6 @@ def hello():
     global x
     x = 100
     return x
-print(hello())
+print(hello())      # Global Variable
 
-print(x)
+print(x)        # same value value outside
